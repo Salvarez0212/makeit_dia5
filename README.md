@@ -31,8 +31,9 @@ Diseño
 
 ### Screenshot
 
-![](./screenshots/Screenshot_desktop.jpg)
-![](./screenshots/Screenshot_mobile.jpg)
+![image](https://user-images.githubusercontent.com/102271918/217113077-e30a08ac-4c9a-4c01-89eb-3eb9a40a642f.png)
+![image](https://user-images.githubusercontent.com/102271918/217113133-04950be4-edaf-47b2-9f6a-83fed53d1ee9.png)
+
 
 Se adjuntan los screenshots tanto de vista desktop como mobile.
 
