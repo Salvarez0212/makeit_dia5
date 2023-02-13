@@ -100,6 +100,7 @@ body {
 .monthly span {
     font-size: 34px;
     font-weight: bolder;
+    color: white;
 }
 .why {
     background-color: hsl(179, 49%, 66%);
@@ -138,12 +139,12 @@ body {
         overflow-y: hidden;
     }
     .container {
-        height: auto;
-        padding: 40px 10px;
+        height: 100vh;
+        padding: 0px 10px;
     }
     .card {
         grid-template-columns: 100%;
-        grid-template-rows: repeat(3, 150px);
+        grid-template-rows: repeat(3, 1fr);
         grid-template-areas: "join""monthly""why";
         height: 70%;
         width: 90%;
@@ -179,6 +180,7 @@ body {
     }
     .monthly span {
         font-size: 20px;
+        
     }
     .why {
         border-radius: 0 0 10px 10px;
